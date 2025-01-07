@@ -3,13 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="shortcut icon" type="imagex/png" href="./img/Schematic_pen.ico">
+    <title>Home | Minecraft Schematics</title>
     <link href="./output.css" rel="stylesheet">
+    <!-- npx tailwindcss -i ./src/input.css -o ./src/output.css --watch -->
 </head>
 <body>
-    <h1 class="p-8">
-        Hello world!
-      </h1>
+    <!-- Cabeçalho -->
+    <div class="bg-black select-none">
+        <div class="flex justify-center py-10">
+            <span class="text-6xl font-thin text-green-600 shadow-lg">
+                Minecraft Schematics
+            </span>
+        </div>
+    </div>
+
+    <div class="flex">
+        <!-- Sidebar -->
+        <div class="h-full w-52 fixed z-10 left-0 flex justify-center  bg-gray-200 select-none">
+            <div class="flex flex-col items-center gap-y-7 text-xl">
+                <!-- Sidebar itens -->
+                <a class="pt-10" href="">
+                    <span class="text-green-600">
+                        Home
+                    </span>
+                </a>
+        
+                <a href="">
+                    <span class="">
+                        Builds
+                    </span>
+                </a>
+    
+                <a href="">
+                    <span class="">
+                        Contact
+                    </span>
+                </a>
+    
+            </div>
+        </div>
+    
+        <!-- Conteudo -->
+        <div class="flex ml-52 w-full h-full">
+            <div class="p-10">
+                <span class="text-3xl font-semibolds">
+                    Bem vindo!
+                </span>
+
+            </div>
+        </div>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>
