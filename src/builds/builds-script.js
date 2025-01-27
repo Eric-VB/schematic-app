@@ -20,9 +20,9 @@ function filtroTipoConstrucaoHome(idContrucao) {
         case 'moderno':
             filtroTipoConstrucao.value = 'moderno'
             break;
-            
+
         default:
             break;
     }
-
+    localStorage.clear()
 }
