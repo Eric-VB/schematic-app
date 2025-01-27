@@ -1,0 +1,123 @@
+[
+    {
+      "capa": "https://example.com/imagem-castelo-medieval.png",
+      "versaoMinecraft": "1.20.1",
+      "tipoConstrucao": "medieval",
+      "descricao": "Castelo medieval com muralhas, torreões e ponte levadiça, ideal para servidores de RPG."
+    },
+    {
+      "capa": "https://example.com/imagem-vila-natureza.png",
+      "versaoMinecraft": "1.18",
+      "tipoConstrucao": "natureza",
+      "descricao": "Vila aconchegante cercada por árvores e rios tranquilos."
+    },
+    {
+      "capa": "https://example.com/imagem-casa-moderna.png",
+      "versaoMinecraft": "1.19",
+      "tipoConstrucao": "moderno",
+      "descricao": "Casa moderna minimalista com piscina e janelas panorâmicas."
+    },
+    {
+      "capa": "https://example.com/imagem-torre-relógio.png",
+      "versaoMinecraft": "1.17",
+      "tipoConstrucao": "medieval",
+      "descricao": "Torre do relógio detalhada, perfeita para cidades antigas."
+    },
+    {
+      "capa": "https://example.com/imagem-praia-moderna.png",
+      "versaoMinecraft": "1.20",
+      "tipoConstrucao": "moderno",
+      "descricao": "Casa de praia moderna com varanda e acesso direto ao mar."
+    },
+    {
+      "capa": "https://example.com/imagem-templo-natureza.png",
+      "versaoMinecraft": "1.16",
+      "tipoConstrucao": "natureza",
+      "descricao": "Templo escondido na selva, repleto de mistérios e segredos."
+    },
+    {
+      "capa": "https://example.com/imagem-vila-medieval.png",
+      "versaoMinecraft": "1.19",
+      "tipoConstrucao": "medieval",
+      "descricao": "Pequena vila medieval com casas de madeira e pedra, cercada por muralhas."
+    },
+    {
+      "capa": "https://example.com/imagem-mansao-moderna.png",
+      "versaoMinecraft": "1.20.1",
+      "tipoConstrucao": "moderno",
+      "descricao": "Mansão de luxo moderna com design sofisticado e detalhes incríveis."
+    },
+    {
+      "capa": "https://example.com/imagem-ponte-medieval.png",
+      "versaoMinecraft": "1.18",
+      "tipoConstrucao": "medieval",
+      "descricao": "Ponte medieval robusta, feita de pedra e madeira, atravessando um rio."
+    },
+    {
+      "capa": "https://example.com/imagem-moinho.png",
+      "versaoMinecraft": "1.17",
+      "tipoConstrucao": "medieval",
+      "descricao": "Moinho de vento com design clássico, ideal para vilarejos."
+    },
+    {
+      "capa": "https://example.com/imagem-torre-moderna.png",
+      "versaoMinecraft": "1.19",
+      "tipoConstrucao": "moderno",
+      "descricao": "Torre residencial moderna com arquitetura futurista."
+    },
+    {
+      "capa": "https://example.com/imagem-floresta-secreta.png",
+      "versaoMinecraft": "1.18",
+      "tipoConstrucao": "natureza",
+      "descricao": "Floresta secreta com árvores gigantes e cavernas escondidas."
+    },
+    {
+      "capa": "https://example.com/imagem-fortaleza-moderna.png",
+      "versaoMinecraft": "1.20",
+      "tipoConstrucao": "moderno",
+      "descricao": "Fortaleza moderna com sistema de defesa avançado."
+    },
+    {
+      "capa": "https://example.com/imagem-igreja-medieval.png",
+      "versaoMinecraft": "1.19",
+      "tipoConstrucao": "medieval",
+      "descricao": "Igreja medieval com vitrais coloridos e detalhes góticos."
+    },
+    {
+      "capa": "https://example.com/imagem-cachoeira.png",
+      "versaoMinecraft": "1.16",
+      "tipoConstrucao": "natureza",
+      "descricao": "Cachoeira majestosa com lago cristalino ao pé das montanhas."
+    },
+    {
+      "capa": "https://example.com/imagem-posto-avancado.png",
+      "versaoMinecraft": "1.18",
+      "tipoConstrucao": "medieval",
+      "descricao": "Posto avançado para vigia com torres de madeira e tochas."
+    },
+    {
+      "capa": "https://example.com/imagem-parque-moderno.png",
+      "versaoMinecraft": "1.20.1",
+      "tipoConstrucao": "moderno",
+      "descricao": "Parque urbano moderno com fontes, bancos e áreas verdes."
+    },
+    {
+      "capa": "https://example.com/imagem-caverna.png",
+      "versaoMinecraft": "1.17",
+      "tipoConstrucao": "natureza",
+      "descricao": "Caverna iluminada por cristais brilhantes e riachos subterrâneos."
+    },
+    {
+      "capa": "https://example.com/imagem-fortaleza-cercada.png",
+      "versaoMinecraft": "1.19",
+      "tipoConstrucao": "medieval",
+      "descricao": "Fortaleza com muros impenetráveis e portões reforçados."
+    },
+    {
+      "capa": "https://example.com/imagem-hospital-moderno.png",
+      "versaoMinecraft": "1.20",
+      "tipoConstrucao": "moderno",
+      "descricao": "Hospital moderno com arquitetura funcional e design minimalista."
+    }
+  ]
+  
