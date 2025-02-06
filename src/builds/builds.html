@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" type="imagex/png" href="./img/Schematic_pen.ico">
+    <link rel="shortcut icon" type="imagex/png" href="../img/Schematic_pen.ico">
     <title>Home | Minecraft Schematics</title>
     <link href="../output.css" rel="stylesheet">
 </head>
@@ -11,7 +11,7 @@
     
     <!-- Cabeçalho -->
     <div class="bg-black select-none h-1/6">
-        <div class="flex justify-center py-10">
+        <div class="flex justify-center py-6">
             <span class="text-6xl font-thin text-green-600 shadow-lg">
                 Minecraft Schematics
             </span>
@@ -21,7 +21,7 @@
     <div class="flex h-5/6">
 
         <!-- Sidebar -->
-        <div class="w-52 flex justify-center bg-gray-300 select-none">
+        <div class="w-52 h-screen flex justify-center bg-gray-300 select-none">
             <div class="flex flex-col items-center gap-y-7 text-xl">
 
                 <!-- Sidebar itens -->
@@ -47,12 +47,12 @@
         </div>
     
         <!-- Conteudo -->
-        <div class="flex flex-auto overflow-y-scroll">
+        <div class="flex flex-col justify-center w-screen h-screen">
 
             <!-- Filtro -->
-            <div class="flex flex-col p-10">
-                <div class="">
-                    <span class="text-gray-500">Filtrar tipo de construção</span>
+            <div class="flex flex-col pl-10 pt-10">
+                <div class="flex flex-col jus">
+                    <span class="text-gray-500 pl-0">Filtrar tipo de construção</span>
                 </div>
                 <div class="pt-2 w-80">
                     <select class="w-full bg-gray-200 rounded-lg p-1 shadow-none" name="filtro-tipo" id="filtroTipoConstrucao">
@@ -63,7 +63,38 @@
                     </select>
                 </div>
             </div>
+            
+            <div class="flex justify-start items-center pl-10 w-full h-full">
+                
+                <!-- area grid -->
+                <div class="w-11/12 h-[91%] grid gap-6 md:grid-cols-3 sm:grid-cols-2">
+                    
+                    <!-- Cards -->
+                    <div class="flex flex-col justify-start items-center pt-4 relative overflow-hidden w-full h-96 rounded-3xl bg-gray-300" 
+                    id="card-natureza">
+                        <div class="bg-green-600 w-[88%] h-3/4 rounded-3xl">
 
+                        </div>
+                        <div class="w-[88%] h-[20%] grid grid-cols-2 gap-2 items-center">
+                            
+                            <div class="bg-orange-400 w-full h-3/5 rounded-3xl">
+
+                            </div>
+                            
+                            <div class="bg-orange-400 w-full h-3/5 rounded-3xl">
+
+                            </div>
+                            
+                        </div>
+                    </div>
+
+                    
+                    
+                   
+                    
+                </div>
+            
+            </div>
         </div>
     </div>
     <script src="builds-script.js"></script>
